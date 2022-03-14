@@ -1,0 +1,11 @@
+C:\TresorAutoLearningGoal2022\Microservice\Exercises\projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\Play.Catalog.Service.exe
+C:\TresorAutoLearningGoal2022\Microservice\Exercises\projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\appsettings.Development.json
+C:\TresorAutoLearningGoal2022\Microservice\Exercises\projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\appsettings.json
+C:\TresorAutoLearningGoal2022\Microservice\Exercises\projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\Play.Catalog.Service.dll
+C:\TresorAutoLearningGoal2022\Microservice\Exercises\projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\Play.Catalog.Service.deps.json
+C:\TresorAutoLearningGoal2022\Microservice\Exercises\projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\Play.Catalog.Service.runtimeconfig.json
+C:\TresorAutoLearningGoal2022\Microservice\Exercises\projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\Play.Catalog.Service.pdb
+C:\TresorAutoLearningGoal2022\Microservice\Exercises\projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\Microsoft.OpenApi.dll
+C:\TresorAutoLearningGoal2022\Microservice\Exercises\projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\TresorAutoLearningGoal2022\Microservice\Exercises\projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\TresorAutoLearningGoal2022\Microservice\Exercises\projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
